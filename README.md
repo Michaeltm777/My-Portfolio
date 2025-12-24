@@ -1,47 +1,53 @@
-# Professional Portfolio Website
+# 👨‍💻 Michael | Full-Stack Developer
 
-A modern, elegant personal portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
+I’m **Michael**, a passionate **full-stack developer** focused on building fast, secure, and scalable digital solutions across web, mobile, and desktop platforms.
 
-## Features
+From clean landing pages to complex systems, I craft products that blend **clarity, performance, and modern design** — turning ideas into reliable, real-world software.
 
-- 🎨 Premium black-white-gold color palette
-- 📱 Fully responsive design
-- ✨ Smooth animations with Framer Motion
-- 🚀 Static site generation ready for deployment
+---
 
-## Getting Started
+## 🚀 What I Do
 
-### Installation
+-   Web development (Node.js, Next.js, PHP, EJS)
+-   Mobile app development (Flutter, React Native)
+-   Desktop software (Electron, Python, C#)
+-   Cloud & Database integration (MySQL, SQLite, Cloudinary)
+-   UI/UX design with Tailwind CSS and modern standards
 
-```bash
-npm install
-```
+---
 
-### Development
+## 🧠 My Philosophy
 
-```bash
-npm run dev
-```
+Technology should **serve people**, not intimidate them.  
+Every line of code I write aims for clarity, maintainability, and purpose.  
+I don’t just build software — I build solutions that last.
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+---
 
-### Build
+## 🤝 Connect With Me
 
-```bash
-npm run build
-npm start
-```
+🌍 Website: [https://michaeltm-dev.com](https://michaeltm-dev.com)  
+💻 GitHub: [https://github.com/Michaeltm777](https://github.com/Michaeltm777)
+📧 Email: contact@michaeltm-dev.com
 
-## Project Structure
+---
 
-```
-/pages          - All page components
-/components     - Reusable components (Navbar, Footer, Cards)
-/public/images  - Static assets
-/styles         - Global CSS and Tailwind configuration
-```
+## 🛠️ Tech Stack
 
-## Deployment
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-This project is ready to deploy on Vercel or any Node-based hosting platform.
+---
 
+## 🎯 Mission
+
+To build digital products that are **reliable, elegant, and future-ready** —  
+with clean architecture and human-centered thinking.
+
+---
+
+### 🖋️ Crafted with care by Michael
