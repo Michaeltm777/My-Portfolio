@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&family=Poppins:wght@300;400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    * {
+        @apply border-black;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        @apply bg-black text-white font-body antialiased;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        @apply font-heading font-bold uppercase;
+    }
+}
+
+@layer utilities {
+    .text-gold {
+        background: linear-gradient(135deg, #fff176 0%, #ffe44d 30%, #d4af37 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+
+    .text-gold-solid {
+        color: #ffe44d;
+    }
+
+    .bg-gold {
+        background: linear-gradient(135deg, #ffe44d 0%, #ffd54f 50%, #d4af37 100%);
+    }
+
+    .bg-gold-solid {
+        background-color: #ffe44d;
+    }
+
+    .border-gold {
+        border-color: #ffe44d;
+    }
+
+    .border-gold-gradient {
+        border-image: linear-gradient(135deg, #fff176 0%, #ffe44d 50%, #d4af37 100%) 1;
+    }
+
+    .hover-glow:hover {
+        box-shadow: 0 0 25px rgba(255, 228, 77, 0.7), 0 0 50px rgba(255, 228, 77, 0.4);
+    }
+
+    .gold-glow {
+        box-shadow: 0 0 20px rgba(255, 228, 77, 0.6), 0 0 40px rgba(255, 228, 77, 0.3);
+    }
+
+    .gold-shine {
+        background: linear-gradient(
+            135deg,
+            #fff176 0%,
+            #ffe44d 25%,
+            #ffd54f 50%,
+            #ffe44d 75%,
+            #d4af37 100%
+        );
+        background-size: 200% 200%;
+        animation: goldShine 3s ease infinite;
+    }
+
+    @keyframes goldShine {
+        0%,
+        100% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+    }
+}
