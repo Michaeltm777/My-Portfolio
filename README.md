@@ -1,4 +1,4 @@
-# 👨‍💻 Michael | Full-Stack Developer
+# 👨‍💻 Michael | Software Engineer & Full-Stack Developer
 
 I’m **Michael**, a passionate **full-stack developer** focused on building fast, secure, and scalable digital solutions across web, mobile, and desktop platforms.
 
